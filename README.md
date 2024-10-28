@@ -36,6 +36,8 @@
 
 进入[“Release”界面](https://github.com/Skr-ZERO/MaokenAssortedSans/releases)下载对应版本的 TTF 或 OTF 文件。
 
+ [**点击下载繁体中文版**](https://github.com/Skr-ZERO/MaokenAssortedSans-TC)
+
 ## 致谢
 
 - [波間のかけひき](https://twitter.com/Umihotarus) 提供原版字体；
