@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>ascender</key>
+  <integer>880</integer>
+  <key>capHeight</key>
+  <integer>679</integer>
+  <key>descender</key>
+  <integer>-144</integer>
+  <key>familyName</key>
+  <string>MaokenAssortedSans</string>
+  <key>italicAngle</key>
+  <real>0</real>
+  <key>openTypeGaspRangeRecords</key>
+  <array>
+    <dict>
+      <key>rangeGaspBehavior</key>
+      <array>
+        <integer>1</integer>
+      </array>
+      <key>rangeMaxPPEM</key>
+      <integer>65535</integer>
+    </dict>
+  </array>
+  <key>openTypeHeadCreated</key>
+  <string>2009/04/09 09:57:29</string>
+  <key>openTypeHeadFlags</key>
+  <array>
+    <integer>0</integer>
+    <integer>1</integer>
+    <integer>3</integer>
+  </array>
+  <key>openTypeHeadLowestRecPPEM</key>
+  <integer>8</integer>
+  <key>openTypeHheaAscender</key>
+  <integer>880</integer>
+  <key>openTypeHheaCaretOffset</key>
+  <integer>0</integer>
+  <key>openTypeHheaCaretSlopeRise</key>
+  <integer>1</integer>
+  <key>openTypeHheaCaretSlopeRun</key>
+  <integer>0</integer>
+  <key>openTypeHheaDescender</key>
+  <integer>-144</integer>
+  <key>openTypeHheaLineGap</key>
+  <integer>0</integer>
+  <key>openTypeNameLicense</key>
+  <string>This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+&quot;Font Software&quot; refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+&quot;Reserved Font Name&quot; refers to any names specified as such after the
+copyright statement(s).
+
+&quot;Original Version&quot; refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+&quot;Modified Version&quot; refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+&quot;Author&quot; refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION &amp; CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.</string>
+  <key>openTypeNameLicenseURL</key>
+  <string>http://scripts.sil.org/OFL</string>
+  <key>openTypeNamePreferredFamilyName</key>
+  <string>MaokenAssortedSans</string>
+  <key>openTypeNamePreferredSubfamilyName</key>
+  <string>Regular</string>
+  <key>openTypeNameRecords</key>
+  <array>
+    <dict>
+      <key>nameID</key>
+      <integer>16</integer>
+      <key>platformID</key>
+      <integer>3</integer>
+      <key>languageID</key>
+      <integer>2052</integer>
+      <key>string</key>
+      <string>猫啃什锦黑</string>
+    </dict>
+  </array>
+  <key>openTypeNameUniqueID</key>
+  <string>MaokenAssortedSans:Version 1.70</string>
+  <key>openTypeNameVersion</key>
+  <string>Version 1.70</string>
+  <key>openTypeOS2CodePageRanges</key>
+  <array>
+    <integer>18</integer>
+  </array>
+  <key>openTypeOS2FamilyClass</key>
+  <array>
+    <integer>10</integer>
+    <integer>8</integer>
+  </array>
+  <key>openTypeOS2Panose</key>
+  <array>
+    <integer>2</integer>
+    <integer>11</integer>
+    <integer>6</integer>
+    <integer>3</integer>
+    <integer>6</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+  </array>
+  <key>openTypeOS2Selection</key>
+  <array>
+    <integer>6</integer>
+    <integer>7</integer>
+    <integer>8</integer>
+  </array>
+  <key>openTypeOS2StrikeoutPosition</key>
+  <integer>270</integer>
+  <key>openTypeOS2StrikeoutSize</key>
+  <integer>50</integer>
+  <key>openTypeOS2SubscriptXOffset</key>
+  <integer>0</integer>
+  <key>openTypeOS2SubscriptXSize</key>
+  <integer>524</integer>
+  <key>openTypeOS2SubscriptYOffset</key>
+  <integer>377</integer>
+  <key>openTypeOS2SubscriptYSize</key>
+  <integer>524</integer>
+  <key>openTypeOS2SuperscriptXOffset</key>
+  <integer>0</integer>
+  <key>openTypeOS2SuperscriptXSize</key>
+  <integer>524</integer>
+  <key>openTypeOS2SuperscriptYOffset</key>
+  <integer>451</integer>
+  <key>openTypeOS2SuperscriptYSize</key>
+  <integer>524</integer>
+  <key>openTypeOS2Type</key>
+  <array>
+    <integer>3</integer>
+  </array>
+  <key>openTypeOS2TypoAscender</key>
+  <integer>880</integer>
+  <key>openTypeOS2TypoDescender</key>
+  <integer>-144</integer>
+  <key>openTypeOS2TypoLineGap</key>
+  <integer>0</integer>
+  <key>openTypeOS2UnicodeRanges</key>
+  <array>
+    <integer>0</integer>
+    <integer>1</integer>
+    <integer>2</integer>
+    <integer>3</integer>
+    <integer>4</integer>
+    <integer>5</integer>
+    <integer>6</integer>
+    <integer>7</integer>
+    <integer>8</integer>
+    <integer>9</integer>
+    <integer>10</integer>
+    <integer>11</integer>
+    <integer>13</integer>
+    <integer>26</integer>
+    <integer>29</integer>
+    <integer>30</integer>
+    <integer>31</integer>
+    <integer>32</integer>
+    <integer>33</integer>
+    <integer>34</integer>
+    <integer>35</integer>
+    <integer>36</integer>
+    <integer>37</integer>
+    <integer>38</integer>
+    <integer>39</integer>
+    <integer>40</integer>
+    <integer>41</integer>
+    <integer>42</integer>
+    <integer>43</integer>
+    <integer>44</integer>
+    <integer>45</integer>
+    <integer>46</integer>
+    <integer>47</integer>
+    <integer>48</integer>
+    <integer>49</integer>
+    <integer>50</integer>
+    <integer>51</integer>
+    <integer>54</integer>
+    <integer>55</integer>
+    <integer>57</integer>
+    <integer>59</integer>
+    <integer>60</integer>
+    <integer>61</integer>
+    <integer>62</integer>
+    <integer>63</integer>
+    <integer>64</integer>
+    <integer>65</integer>
+    <integer>66</integer>
+    <integer>67</integer>
+    <integer>68</integer>
+    <integer>69</integer>
+    <integer>70</integer>
+    <integer>78</integer>
+    <integer>79</integer>
+    <integer>82</integer>
+    <integer>88</integer>
+    <integer>89</integer>
+    <integer>90</integer>
+    <integer>91</integer>
+    <integer>92</integer>
+    <integer>97</integer>
+    <integer>99</integer>
+    <integer>102</integer>
+    <integer>109</integer>
+    <integer>111</integer>
+    <integer>119</integer>
+    <integer>122</integer>
+  </array>
+  <key>openTypeOS2VendorID</key>
+  <string>ZERO</string>
+  <key>openTypeOS2WeightClass</key>
+  <integer>500</integer>
+  <key>openTypeOS2WidthClass</key>
+  <integer>5</integer>
+  <key>openTypeOS2WinAscent</key>
+  <integer>900</integer>
+  <key>openTypeOS2WinDescent</key>
+  <integer>175</integer>
+  <key>openTypeVheaCaretOffset</key>
+  <integer>0</integer>
+  <key>openTypeVheaCaretSlopeRise</key>
+  <integer>0</integer>
+  <key>openTypeVheaCaretSlopeRun</key>
+  <integer>1</integer>
+  <key>openTypeVheaVertTypoAscender</key>
+  <integer>2343</integer>
+  <key>openTypeVheaVertTypoDescender</key>
+  <integer>-1693</integer>
+  <key>openTypeVheaVertTypoLineGap</key>
+  <integer>0</integer>
+  <key>postscriptFontName</key>
+  <string>MaokenAssortedSans</string>
+  <key>postscriptUnderlinePosition</key>
+  <integer>-100</integer>
+  <key>postscriptUnderlineThickness</key>
+  <integer>50</integer>
+  <key>styleMapFamilyName</key>
+  <string>MaokenAssortedSans</string>
+  <key>styleMapStyleName</key>
+  <string>regular</string>
+  <key>styleName</key>
+  <string>Regular</string>
+  <key>unitsPerEm</key>
+  <integer>1024</integer>
+  <key>versionMajor</key>
+  <integer>1</integer>
+  <key>versionMinor</key>
+  <integer>45875</integer>
+  <key>xHeight</key>
+  <integer>507</integer>
+</dict>
+</plist>

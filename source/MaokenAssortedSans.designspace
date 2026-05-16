@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<designspace format="5.0">
+  <axes>
+  </axes>
+  <sources>
+    <source familyname="MaokenAssortedSans" filename="masters/Regular.ufo" name="Regular" stylename="Regular">
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="MaokenAssortedSans" filename="instances/Regular.ufo" name="Regular" stylename="Regular">
+      <stylename xml:lang="zh-CN">常规</stylename>
+      <familyname xml:lang="zh-CN">猫啃什锦黑</familyname>
+    </instance>
+  </instances>
+</designspace>
