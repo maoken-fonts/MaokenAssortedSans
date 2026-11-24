@@ -50,4 +50,4 @@
 
 ## Star数趋势图
 
-[![Stargazers over time](https://starchart.cc/Skr-ZERO/MaokenAssortedSans.svg)](https://starchart.cc/Skr-ZERO/MaokenAssortedSans)
+[![Stargazers over time](https://starchart.cc/maoken-fonts/MaokenAssortedSans.svg)](https://starchart.cc/maoken-fonts/MaokenAssortedSans)
